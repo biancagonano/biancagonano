@@ -38,4 +38,10 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
+
+<h4> Social </h4>
+<span>
+  <a href= "htttps: //www.linkedin.com/in/bianca-gonano-28b987202/?h1=es">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">   
+  
 </span>
