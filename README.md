@@ -42,6 +42,7 @@
 <h4> Social </h4>
 <span>
   <a href= "htttps: //www.linkedin.com/in/bianca-gonano-28b987202/?h1=es">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">   
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>  
   
 </span>
