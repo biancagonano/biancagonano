@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I'm Gonano Bianca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+I am Music and System Engineering student at UTN-FRT. C, Python,Flask, HTML, CSS, JS, Pygame and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web Development, Game development, and Music **
+
 ## My Skills Include
 
 <h4> Languages </h4>
