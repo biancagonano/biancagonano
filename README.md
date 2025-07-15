@@ -57,7 +57,7 @@ Siempre estoy buscando proyectos divertidos y personas increíbles con las que c
 ¡Me encantaría charlar contigo! Puedes encontrarme en:
 
 <p>
-  <a href="https://www.https://www.linkedin.com/in/bianca-gonano-28b987202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/bianca-gonano-28b987202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://tuportfoliocute.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DDA0DD?style=flat-square&logo=fiverr&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:gonanobianca81@gmail.com"><img src="https://img.shields.io/badge/Email-ADD8E6?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
